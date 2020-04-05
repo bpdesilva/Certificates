@@ -1,7 +1,3 @@
-# Certificates
-
----
-
 ## Courses Completed
 
 ---
