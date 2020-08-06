@@ -16,6 +16,10 @@
 
 - Introduction to Software Product Management
 - Agile with Atlassian Jira
+- Getting Started with AWS Machine Learning
+- Machine Learning for Business Professionals
+- Google Cloud Platform Fundamentals for AWS Professionals
+- Introduction to Cloud Identity
 
 ---
 
