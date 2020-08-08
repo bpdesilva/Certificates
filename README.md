@@ -100,3 +100,4 @@
 - Project Management Foundations [2016]
 - DevOps Foundations: Containers
 - Scrum: The Basics
+- Stay Lean with Kanban
