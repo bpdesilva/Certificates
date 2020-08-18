@@ -30,6 +30,36 @@
 
 ## Linkedin Learning
 
+- Jira: Basic Administration
+- Artificial Intelligence Foundations: Thinking Machines
+- Trello for Agile Teams
+- The Future of Performance Management
+- Cloud Architecture: Core Concepts
+- Blockchain Basics
+- Agile at Work: Reporting with Agile Charts and Boards
+- Agile at Work: Getting Better with Agile Retrospectives
+- Agile at Work: Driving Productive Agile Meetings
+- Applying Agile MoSCoW Prioritization
+- Agile at Work: Planning with Agile User Stories
+- The Data Science of Marketing
+- Introduction to Quantum Computing
+- Software Architecture Foundations
+- iOS App Development: Core ML
+- Agile at Work: Building Your Agile Team
+- Agile Foundations
+- 5G Technology Strategy: Next-Generation Mobile Networking
+- Real-World GIS
+- Shared Economy for iOS Development
+- Stay Lean with Kanban
+- iOS App Development: Notifications
+- Cert Prep: Scrum Master
+- Node.js: Testing and Code Quality
+- Swift 5 Essential Training
+- Building Full-Stack Apps with React and Spring
+- Building RESTful APIs with Node.js and Express
+- Learning Full-Stack JavaScript Development: MongoDB, Node, and React
+- Learning Data Analytics
+- Project Management: Iterative Methods
 - Node.js: Security
 - React: Securing Applications
 - Node.js Essential Training
@@ -50,7 +80,6 @@
 - Programming Foundations: APIs and Web Services
 - Building Your First iOS App
 - Learning S.O.L.I.D. Programming Principles
-- Applying Agile MoSCoW Prioritization
 - Data Visualization in R with ggplot2
 - Learning QGIS (2015)
 - Microservices Foundations
@@ -90,7 +119,7 @@
 - Machine Learning and AI Foundations: Predictive Modeling Strategy at Scale
 - From React to React Native
 - React.js Essential Training
-- Python Data Structures:  Stacks, Queues, and Deques
+- Python Data Structures: Stacks, Queues, and Deques
 - C++ Essential Training
 - LINQ with C# Essential Training
 - Building APIs in PHP Using the Slim Micro Framework
@@ -100,4 +129,3 @@
 - Project Management Foundations [2016]
 - DevOps Foundations: Containers
 - Scrum: The Basics
-- Stay Lean with Kanban
