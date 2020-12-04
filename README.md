@@ -2,6 +2,12 @@
 
 ---
 
+## Scrum Alliance
+- Certified Scrum Master
+
+## Scaled Agile
+- SAFe 5 Agilist
+
 ## Google
 
 - Adwords Fundamentals
