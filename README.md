@@ -4,6 +4,9 @@
 
 ## Scrum Alliance
 - Certified Scrum Master
+- Certified Scrum Product Owner
+- Advanced - Certified Scrum Master
+- Certified Scrum Professional - Scrum Master
 
 ## Scaled Agile
 - SAFe 5 Agilist
